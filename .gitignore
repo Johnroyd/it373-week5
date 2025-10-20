@@ -16,3 +16,7 @@ media/
 # Environment
 .env
 .env.*
+
+# Ignore Visual Studio cache and build files
+.vs/
+*.vsidx
